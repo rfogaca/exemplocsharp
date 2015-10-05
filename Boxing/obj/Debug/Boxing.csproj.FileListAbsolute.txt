@@ -1,0 +1,6 @@
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\Boxing\bin\Debug\Boxing.exe.config
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\Boxing\bin\Debug\Boxing.exe
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\Boxing\bin\Debug\Boxing.pdb
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\Boxing\obj\Debug\Boxing.csprojResolveAssemblyReference.cache
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\Boxing\obj\Debug\Boxing.exe
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\Boxing\obj\Debug\Boxing.pdb
