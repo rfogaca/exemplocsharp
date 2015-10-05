@@ -1,0 +1,6 @@
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\ValueTypes\bin\Debug\ValueTypes.exe.config
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\ValueTypes\bin\Debug\ValueTypes.exe
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\ValueTypes\bin\Debug\ValueTypes.pdb
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\ValueTypes\obj\Debug\ValueTypes.csprojResolveAssemblyReference.cache
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\ValueTypes\obj\Debug\ValueTypes.exe
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\ValueTypes\obj\Debug\ValueTypes.pdb
