@@ -1,1 +1,6 @@
 C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\Hello World\bin\Debug\Hello World.exe
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\Hello World\bin\Debug\Hello World.pdb
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\Hello World\obj\Debug\Hello World.exe
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\Hello World\obj\Debug\Hello World.pdb
