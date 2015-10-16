@@ -1,0 +1,41 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Collections;
+
+namespace Array
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Simple Dimensional
+            int[] a1 = new int[3];
+            a1[0] = 10;
+            a1[1] = 20;
+            a1[2] = 30;
+            //a1[5] = 50; //Error
+
+            bool[] a2 = new bool[] { true, false, true };
+
+            string[] a3 = new string[] { "one", "two", "three" };
+
+            Console.WriteLine(a3.Length);
+            Console.ReadKey();
+
+            //MultiDimensional Array
+            int[,] ma1 = new int[3,3];
+            ma1[0,0] = 1;
+
+            ArrayList al = new ArrayList();
+
+            al.Add(10);
+            al.Add("OK");
+            al.Add(true);
+
+            //al[0];
+        }
+    }
+}
