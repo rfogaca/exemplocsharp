@@ -1,0 +1,5 @@
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\Strings\bin\Debug\Strings.exe.config
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\Strings\bin\Debug\Strings.exe
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\Strings\bin\Debug\Strings.pdb
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\Strings\obj\Debug\Strings.exe
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\Strings\obj\Debug\Strings.pdb
