@@ -36,6 +36,16 @@ namespace Array
             al.Add(true);
 
             //al[0];
+
+            //Generics C# List<T>
+            List<int> l1 = new List<int>();
+            l1.Add(10);
+            l1.Add(20);
+            l1.Add(30);
+
+            List<bool> l2 = new List<bool>();
+
+
         }
     }
 }
