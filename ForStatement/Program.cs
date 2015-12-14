@@ -11,7 +11,7 @@ namespace ForStatement
         static void Main(string[] args)
         {
             int a;
-            for ( a = 10; a > 0; a = a-3 )
+            for ( a = 10; a > 0; a-- )
             {
                 Console.WriteLine(a.ToString());
             }
