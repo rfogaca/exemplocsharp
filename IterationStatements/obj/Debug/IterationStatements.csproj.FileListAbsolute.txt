@@ -1,0 +1,6 @@
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\IterationStatements\bin\Debug\IterationStatements.exe.config
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\IterationStatements\bin\Debug\IterationStatements.exe
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\IterationStatements\bin\Debug\IterationStatements.pdb
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\IterationStatements\obj\Debug\IterationStatements.csprojResolveAssemblyReference.cache
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\IterationStatements\obj\Debug\IterationStatements.exe
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\IterationStatements\obj\Debug\IterationStatements.pdb
