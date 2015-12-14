@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForStatement", "ForStatemen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForeachStatement", "ForeachStatement\ForeachStatement.csproj", "{B0F363DB-2414-4BD4-A1E0-C132C81B3C70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousTypes", "AnonymousTypes\AnonymousTypes.csproj", "{1EF81C23-BAF5-4D16-A07A-6B174D679413}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{B0F363DB-2414-4BD4-A1E0-C132C81B3C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0F363DB-2414-4BD4-A1E0-C132C81B3C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0F363DB-2414-4BD4-A1E0-C132C81B3C70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EF81C23-BAF5-4D16-A07A-6B174D679413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF81C23-BAF5-4D16-A07A-6B174D679413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF81C23-BAF5-4D16-A07A-6B174D679413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF81C23-BAF5-4D16-A07A-6B174D679413}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
