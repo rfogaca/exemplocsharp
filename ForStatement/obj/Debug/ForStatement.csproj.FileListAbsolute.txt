@@ -1,0 +1,6 @@
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\ForStatement\bin\Debug\ForStatement.exe.config
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\ForStatement\bin\Debug\ForStatement.exe
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\ForStatement\bin\Debug\ForStatement.pdb
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\ForStatement\obj\Debug\ForStatement.csprojResolveAssemblyReference.cache
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\ForStatement\obj\Debug\ForStatement.exe
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\ForStatement\obj\Debug\ForStatement.pdb

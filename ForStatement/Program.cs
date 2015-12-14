@@ -10,6 +10,12 @@ namespace ForStatement
     {
         static void Main(string[] args)
         {
+            int a;
+            for ( a = 10; a > 0; a = a-3 )
+            {
+                Console.WriteLine(a.ToString());
+            }
+            Console.ReadKey();
         }
     }
 }
