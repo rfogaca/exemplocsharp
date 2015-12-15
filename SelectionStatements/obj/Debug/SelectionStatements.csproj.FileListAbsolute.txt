@@ -1,6 +1,5 @@
 C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\SelectionStatements\bin\Debug\SelectionStatements.exe.config
 C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\SelectionStatements\bin\Debug\SelectionStatements.exe
 C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\SelectionStatements\bin\Debug\SelectionStatements.pdb
-C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\SelectionStatements\obj\Debug\SelectionStatements.csprojResolveAssemblyReference.cache
 C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\SelectionStatements\obj\Debug\SelectionStatements.exe
 C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\SelectionStatements\obj\Debug\SelectionStatements.pdb
