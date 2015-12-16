@@ -13,6 +13,12 @@ namespace ClassSample
             Console.WriteLine("Aluno Consctrutor");
         }
 
+        public Aluno(string _nome, int _idade)
+        {
+            this.nome = _nome;
+            this.idade = _idade;
+        }
+
         //Fields
         private string nome;
         private int idade;
@@ -39,6 +45,12 @@ namespace ClassSample
                 if(value >= 10)
                     idade = value;
             }
+        }
+
+        public void Limpar()
+        {
+            this.idade = 0;
+            this.nome = string.Empty;
         }
 
         ~Aluno()

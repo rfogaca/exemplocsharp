@@ -3,3 +3,4 @@ C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\Class
 C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\ClassSample\bin\Debug\ClassSample.pdb
 C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\ClassSample\obj\Debug\ClassSample.exe
 C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\ClassSample\obj\Debug\ClassSample.pdb
+C:\Users\rodrigo.fogaca\Documents\Visual Studio 2013\Projects\First Sample\ClassSample\obj\Debug\ClassSample.csprojResolveAssemblyReference.cache
