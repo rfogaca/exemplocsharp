@@ -24,6 +24,7 @@ namespace ClassSample
 
             Console.WriteLine(a1.Nome);
 
+            a1.Limpar();
             Console.ReadKey();
         }
     }
