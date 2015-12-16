@@ -12,9 +12,9 @@ namespace ClassSample
         {
             Aluno a1 = new Aluno();
             Aluno a2 = new Aluno();
-            Aluno a3 = new Aluno();
-            Aluno a4 = new Aluno();
-            Aluno a5 = new Aluno();
+
+            a1.Nome = "Pedro";
+            a1.Idade = 30;
 
             Console.ReadKey();
         }
